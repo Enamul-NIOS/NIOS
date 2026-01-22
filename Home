@@ -1,20 +1,10 @@
-# 👋 Hi, I'm Enamul
-
-### 💻 About Me
-- 🎓 Student / Developer
-- 🌱 Currently learning: HTML, CSS, JavaScript
-- 📍 Based in India
-- 🎯 Goal: Become a Full Stack Developer
-
-### 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-### 📂 Projects
-- 🔹 Project 1 – Description
-- 🔹 Project 2 – Description
-
-### 📫 Contact Me
-- 📧 Email: mohdenamul2@gmail.com
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Home Page</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is my home page hosted on GitHub.</p>
+</body>
+</html>
